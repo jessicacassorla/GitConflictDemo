@@ -1,2 +1,3 @@
 Hello CSharp-60
 Let's learn about Git Conflicts
+Line three from the main branch
